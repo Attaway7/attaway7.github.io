@@ -137,11 +137,12 @@ header {
       width: 100%;
     }
 }
-@media screen and (max-width: 1000px) {
-    .column2 {
+@media screen and (max-width: 1600px) {
+    .column, .column2, .column3 {
       width: 100%;
     }
 }
+
 .center {
     margin: auto;
     margin-top: 3%;
